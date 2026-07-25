@@ -525,3 +525,35 @@ footer hr{
     background:#2E7D32;
     color:#fff;
 }
+/* =========================
+   DARK MODE
+========================= */
+
+body.dark-mode{
+    background:#121212;
+    color:#ffffff;
+}
+
+body.dark-mode header{
+    background:#1e1e1e;
+}
+
+body.dark-mode section{
+    background:#181818;
+}
+
+body.dark-mode .category-card,
+body.dark-mode .feature-card,
+body.dark-mode .featured-card,
+body.dark-mode .info-box{
+    background:#242424;
+    color:#ffffff;
+}
+
+body.dark-mode p{
+    color:#dddddd;
+}
+
+body.dark-mode footer{
+    background:#0b3d1c;
+}
